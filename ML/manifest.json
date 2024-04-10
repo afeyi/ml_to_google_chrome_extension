@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
-  "name": "Fake News Detection Extension",
-  "description": "A Chrome extension that predicts whether news articles are likely to be Fake or Not",
+  "name": "Hate Speech Detection Extension",
+  "description": "A Chrome extension that predicts whether a statement is considered to be Hate Speech or Not HateSpeech",
   "version": "1.0",
   "icons": {
     "16": "img/icon16.jpg",
